@@ -1,1 +1,0 @@
-musl-gcc  -Wall -Wextra -Wshadow -fvisibility=hidden -s -static -O3 -funroll-loops -std=gnu11   CMakeFiles/trouble.dir/src/trouble.c.o  -o trouble -rdynamic 
