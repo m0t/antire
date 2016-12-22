@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tom/cpp/antire_book/tom/src/trouble.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+

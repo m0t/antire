@@ -1,0 +1,3 @@
+/home/tom/cpp/antire_book/tom/CMakeFiles/rebuild_cache.dir
+/home/tom/cpp/antire_book/tom/CMakeFiles/edit_cache.dir
+/home/tom/cpp/antire_book/tom/CMakeFiles/trouble.dir
