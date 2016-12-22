@@ -24,6 +24,7 @@ Elf64_Shdr* find_sections(std::string& p_data, int& p_sec_count, int& p_str_inde
     if (p_data[0] != 0x7f || p_data[1] != 'E' || p_data[2] != 'L' ||
         p_data[3] != 'F')
     {
+        std::cerr << "File format not recognised" << std::endl
         return NULL;
     }
 
